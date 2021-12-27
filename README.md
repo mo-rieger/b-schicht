@@ -44,3 +44,11 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
   <use xlink:href="#SVG-ID"></use>
 </svg>
 ```
+
+## TODO:
+
+- [] futura font anpassen
+- [] farben: s/w
+- [] email auf domain
+- [] domain umziehen von all-inkl.com zu inwx
+
